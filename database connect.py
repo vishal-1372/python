@@ -67,6 +67,10 @@
 
 
 
+
+
+
+###### SQL LITE ######
 import sqlite3
 cnt = sqlite3.connect('mydb.dp')
 # # cnt.execute('create table stud_data (roll integer,name varchar)')

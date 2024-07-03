@@ -101,3 +101,6 @@ cnt.execute(sql_del)
 cursor = cnt.execute('select * from stud_data')
 for i in cursor:
      print(i)
+
+
+#commit
